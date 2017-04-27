@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11a7022b-af57-417b-8232-cc22e10d8200" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/style.css" afterPath="$PROJECT_DIR$/app/static/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/index.html" afterPath="$PROJECT_DIR$/app/templates/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,8 +53,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="28" column="25" lean-forward="false" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+            <state relative-caret-position="268">
+              <caret line="36" column="95" lean-forward="true" selection-start-line="36" selection-start-column="95" selection-end-line="36" selection-end-column="95" />
               <folding>
                 <element signature="e#136#178#0#HTML" expanded="true" />
                 <element signature="e#237#262#0#HTML" expanded="true" />
@@ -713,8 +711,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="28" column="25" lean-forward="false" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        <state relative-caret-position="268">
+          <caret line="36" column="95" lean-forward="true" selection-start-line="36" selection-start-column="95" selection-end-line="36" selection-end-column="95" />
           <folding>
             <element signature="e#136#178#0#HTML" expanded="true" />
             <element signature="e#237#262#0#HTML" expanded="true" />
