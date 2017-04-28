@@ -5,3 +5,11 @@ img {
 .col-md-4 {
     border: solid 10px transparent;
 }
+
+h1 {
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}

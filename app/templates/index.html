@@ -1,8 +1,8 @@
 {% extends "base.html" %}
 {% block content %}
-    <div class="container">
-        <div class="row">
-            <h1 class="text-center" style="margin-top:100px;font-size: 80px;">ELVIN GRANAT</h1>
+    <div class="container" >
+        <div class="row" style="background-image:url({{ url_for('static', filename = 'images/Rainbow-Blocks.png') }});">
+            <h1 class="text-center" style="margin:100px 0 100px 0;font-size: 80px; color: white;"><b>ELVIN GRANAT</b></h1>
         </div>
         <div class="row" style="margin-top: 20px;">
             <div class="col-md-4">
@@ -35,6 +35,39 @@
             </div>
             <div class="col-md-4">
                 <img src="{{ url_for('static', filename = 'images/Cyklar-inte-langt.png') }}"/>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <img src="{{ url_for('static', filename = 'images/Tornado.png') }}"/>
+            </div>
+            <div class="col-md-4">
+                <img src="{{ url_for('static', filename = 'images/Darkness-Approaching.png') }}"/>
+            </div>
+            <div class="col-md-4">
+                <img src="{{ url_for('static', filename = 'images/Black-Hole.png') }}"/>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <img src="{{ url_for('static', filename = 'images/EG-1.png') }}"/>
+            </div>
+            <div class="col-md-4">
+                <img src="{{ url_for('static', filename = 'images/EG-cubes-1.png') }}"/>
+            </div>
+            <div class="col-md-4">
+                <img src="{{ url_for('static', filename = 'images/EG-cubes-2.png') }}"/>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <img src="{{ url_for('static', filename = 'images/AD.png') }}"/>
+            </div>
+            <div class="col-md-4">
+                <img src="{{ url_for('static', filename = 'images/KE-eller-E.png') }}"/>
+            </div>
+            <div class="col-md-4">
+                <img src="{{ url_for('static', filename = 'images/LF-eller-E.png') }}"/>
             </div>
         </div>
         <div class="row" style="margin: 30px 0 30px 0;">
